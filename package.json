@@ -1,0 +1,17 @@
+{
+  "name": "vue-ar-container",
+  "version": "1.0.0",
+  "description": "A simple container with a fixed aspect ratio",
+  "main": "VueArContainer.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "aspect",
+    "ratio",
+    "container"
+  ],
+  "author": "Antonio Primera",
+  "license": "ISC"
+}
